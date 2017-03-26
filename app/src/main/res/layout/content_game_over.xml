@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    style="@style/CustomWidHieMatch"
+    tools:context=".game.result"
+    android:orientation="vertical"
+    android:gravity="center">
+
+    <TextView
+        android:text="@string/game_over"
+        style="@style/CustomHeadings" />
+    <TextView
+        android:id="@+id/scoreLabel"
+        style="@style/CustomStartWidHie"
+        android:textSize="@dimen/game_name_text_size"
+        android:layout_marginTop="@dimen/start_img"/>
+    <TextView
+        android:id="@+id/highScoreLabel"
+        style="@style/CustomHeadings"
+        android:text="@string/high_score" />
+    <Button
+        style="@style/CustomButton"
+        android:text="@string/try_again"
+        android:onClick="tryAgain" />
+</LinearLayout>

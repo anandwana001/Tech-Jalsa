@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    style="@style/CustomWidHieMatch"
+    tools:context=".game.start"
+    android:orientation="vertical"
+    android:gravity="center">
+    <TextView
+        style="@style/CustomHeadings"
+        android:text="@string/game_name" />
+    <TableLayout
+        style="@style/CustomStartWidHie"
+        android:layout_marginTop="@dimen/game_margin_top">
+        <TableRow
+            style="@style/CustomTableRow">
+            <ImageView
+                style="@style/CustomStartImg"
+                android:src="@drawable/pink"/>
+            <TextView
+                style="@style/CustomStartText"
+                android:text="@string/ten_points" />
+        </TableRow>
+        <TableRow
+            style="@style/CustomTableRow">
+            <ImageView
+                style="@style/CustomStartImg"
+                android:src="@drawable/orange"/>
+            <TextView
+                style="@style/CustomStartText"
+                android:text="@string/fv_points" />
+        </TableRow>
+        <TableRow
+            style="@style/CustomTableRow">
+            <ImageView
+                style="@style/CustomStartImg"
+                android:src="@drawable/black"/>
+            <TextView
+                style="@style/CustomStartText"
+                android:text="@string/game_over" />
+        </TableRow>
+    </TableLayout>
+    <Button
+        style="@style/CustomButton"
+        android:text="@string/game_start"
+        android:onClick="startGame" />
+</LinearLayout>

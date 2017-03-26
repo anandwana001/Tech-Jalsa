@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/call_vol"
+        android:showAsAction="never"
+        android:title="@string/call"/>
+    <item
+        android:id="@+id/game_play"
+        android:showAsAction="never"
+        android:title="@string/game"/>
+    <item
+        android:id="@+id/show_map"
+        android:showAsAction="never"
+        android:title="@string/map"/>
+    <item
+        android:id="@+id/about_us"
+        android:showAsAction="never"
+        android:title="@string/aboutus"/>
+</menu>

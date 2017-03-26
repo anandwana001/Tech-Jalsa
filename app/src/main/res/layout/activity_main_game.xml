@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    style="@style/CustomWidHieMatch"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/scoreLabel"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/game"
+        android:text="@string/score"
+        android:textSize="18sp"
+        android:textColor="@android:color/white"
+        android:paddingEnd="@dimen/album_title_padding"
+        android:gravity="center_vertical"
+        android:background="@color/colorPrimary"/>
+
+    <FrameLayout
+        android:id="@+id/frame"
+        style="@style/CustomWidHieMatch">
+
+        <TextView
+            android:id="@+id/startLabel"
+            style="@style/CustomHeadings"
+            android:text="@string/tap_to_start"
+            android:layout_gravity="center_horizontal" />
+
+        <ImageView
+            android:id="@+id/box"
+            android:layout_width="@dimen/game"
+            android:layout_height="@dimen/game"
+            android:src="@drawable/box"
+            android:layout_gravity="center_vertical"/>
+
+        <ImageView
+            android:id="@+id/orange"
+            android:layout_width="@dimen/start_img"
+            android:layout_height="@dimen/start_img"
+            android:src="@drawable/orange"/>
+
+        <ImageView
+            android:id="@+id/black"
+            android:layout_width="24dp"
+            android:layout_height="24dp"
+            android:src="@drawable/black"/>
+
+        <ImageView
+            android:id="@+id/pink"
+            android:layout_width="16dp"
+            android:layout_height="16dp"
+            android:src="@drawable/pink"/>
+    </FrameLayout>
+
+</LinearLayout>

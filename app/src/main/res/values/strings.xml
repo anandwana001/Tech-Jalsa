@@ -1,0 +1,523 @@
+<resources>
+    <string name="app_name">TechJalsa</string>
+
+    <string name="map">Maps</string>
+    <string name="call">Call Coordinator</string>
+    <string name="game">Game</string>
+    <string name="aboutus">About Us</string>
+
+    <string name="dayOne">9<sup>th</sup></string>
+    <string name="dayTwo">10<sup>th</sup></string>
+    <string name="dayThree">11<sup>th</sup></string>
+    <string name="dayFour">12<sup>th</sup></string>
+
+    <string name="vol_five">Akshat Bordia</string>
+    <string name="vol_five_no">7877097467</string>
+    <string name="vol_six">Ronak Murdia</string>
+    <string name="vol_six_no">7737787368</string>
+    <string name="vol_sev">Rohan Sen</string>
+    <string name="vol_sev_no">8769294330</string>
+    <string name="vol_one_name">Gaurav Kumawat - faculty</string>
+    <string name="vol_one_no">8696932741</string>
+    <string name="vol_two">Sandeep Upadhyay - faculty</string>
+    <string name="vol_two_no">8696932745</string>
+    <string name="vol_three">Sayyed Faiz Ahmed</string>
+    <string name="vol_three_no">9694691438</string>
+    <string name="vol_egt">Dakshay Bhagtani</string>
+    <string name="vol_egt_no">9414314009</string>
+    <string name="vol_nin">Mohd. Saif</string>
+    <string name="vol_nin_no">8890974509</string>
+    <string name="vol_ten">Harshvardhan Chittora</string>
+    <string name="vol_ten_no">9460382689</string>
+
+    <string name="game_start">Start</string>
+    <string name="game_name">Catch The Ball</string>
+    <string name="ten_points">10 Points</string>
+    <string name="fv_points">5 Points</string>
+    <string name="game_over">Game Over</string>
+    <string name="score">Score : </string>
+    <string name="tap_to_start">Tap to Start</string>
+    <string name="try_again">Try Again</string>
+    <string name="high_score">High Score : </string>
+
+    <string name="ok">OK</string>
+    <string name="description">Description</string>
+
+    <!-- 9th March Events-->
+    <string-array name="start">
+        <item>Inaugral Function with plantation</item>
+        <item>11:00AM-11:30AM</item>
+        <item>Techno Circle</item>
+        <item>Tech Jalsa is the annual Technical and Cultural event of Techno India NJR Institute of Technology.
+\n\nThe moment to put the course books aside and swinging back into our fun-modes. Techno India NJR invites you to \'TechJalsa 2K17\' the inter university technical festival. Ranging from bridge-making to face-painting, from extempore to paper presentations, from fashion show to roadies, TechJalsa 2K17 provides the ultimate 4 days of fun in March 2017.
+\n\nSo pack your bags, load your passions and land up to Techno India NJR and have all the fun you had been waiting for.</item>
+    </string-array>
+    <string-array name="setu">
+        <item>Setu(Bridge Making)</item>
+        <item>11:30AM-1:30PM</item>
+        <item>Workshop</item>
+        <item>Fee - 100\nFirst Prize - 500\nSecond Prize - 300
+\n\n1.Bridge Material Kits: Each bridge material kit consists of 200 numbers of Popsicle sticks, one bottle of fevicol, cutter, pins and rules sheet.
+\n\n2.Construction of Model Bridges: Only wooden popsicle sticks, fevicol and pins can be used to construct the bridges. No other materials are permitted. The wooden sticks can be cut to fit as desired. The amount of sticks and fevicol used in the bridge is limited only by the dimensions restrictions.
+\n\n3.Please note the following when you design and build your bridge: During the strength test of the bridge, one horizontal metal bar will be placed along the road deck of the bridge, at the center of the bridge. The weight on the bar will be hung using a hook. By placing the bar across the road deck in this manner, we ensure that the truss members of the bridge are stressed during the strength test. The builder of the model bridge shall ensure that there is one 2cm x 2cm opening through the center of the road deck of the bridge, to accommodate the vertical bar. Bridges should be built to ensure that the region underneath the horizontal bar is properly reinforced to distribute the force applied during the test.
+\n\n4.During the test, the bridge will rest on two tables placed exactly 50cm apart. These tables are loose and will resist the downward force applied to the bridge. The tables will not resist any sideways force exerted on them. Therefore ‘arch’ style bridges, which normally require an inward force on the ends of the arch for proper support, will not perform well in this competition.
+\n\n5.Dimensions of the bridge: The length of the bridge must be between 60cm and 70cm at its base. This is critical and the bridge will be disqualified if it is shorter than 60cm and will be penalized if it is longer than 70cm at the base. The road surface of the bridge can be curved, if desired, but must be at least 6cm wide along its entire length. The road surface is that part of the bridge deck available to be used by a model car travelling over the bridge. The road must be sufficiently smooth and continuously to allow a small model car to travel. The overall width of the bridge shall not exceeded 15cm. This is critical and the bridge will be penalized if it is wider than 15cm. The overall height of the bridge shall not exceeded 15cm. Overall height means from lowest point to highest point. This is critical and the bridge will be penalized if it is higher than 15cm.
+\n\n6.How to accumulate points in the competition:
+\n\u2022 Keep the glued joints clean and trimmed. At the joints, be sure to overlap the sticks and wipe off excess glue.
+\n\u2022 Edges that are intended to be parallel should look parallel.
+\n\u2022 Keep the structure symmetrical.
+\n\u2022 Try to use some artistic imagination.
+\n\u2022 Try to use engineering principles, to transfer the force from the middle of the bridge to its supports.
+\n\u2022 Comply with the Dimensions restrictions to avoid penalties.
+\n\n7. Penalties:
+\n\u2022 2 points will be deducted for each 1cm from the score if the bridge is longer than 70 cm at the base.
+\n\u2022 5 points will be deducted for each 1cm (or partition thereof) that the bridge’s height exceeds 15cm.
+\n\u2022 1 point will be deducted for each 1cm that the bridge’s width exceeds 15cm.
+\n\n8. Ground for Disqualification:
+\n\u2022 Entries will be disqualified if they use any material other than provided.
+\n\u2022 Entries will be disqualified if the bridge length is shorter than 60cm.
+\n\u2022 Entries will be disqualified if there is evidence of heat treating (baking etc.)
+\n\n9. Labeling: All finished bridges are to be labeled or identified by putting their Team name.
+\n\n10. Judging &amp; Testing of bridges: The judging of the bridges is comprised of 4 main areas:
+\n\u2022 Quality of Construction (10 points maximum)
+\n\u2022 Application of Engineering Principles (20 points maximum)
+\n\u2022 Aesthetics (10 points maximum)
+\n\u2022 Strength (60 points maximum)
+\n\n11. The strength factor will be computed using the formula: Strength Factor (SF) = (Applied Force)/(Mass of Bridge)2 The bridge with the highest strength factor will be given a score of 60. All other bridge entries within the category will be given a score less than 60, based on the ratio of their strength factor score to the highest strength factor score. The score will be calculated as Final Score = [(SFi)/(SF max)]x60
+\n\n12. The ‘ Quality of Construction’, ‘application of Engineering Principles’ and ‘Aesthetics’ aspects of the competition will judge the model bridge on bridge build quality, good engineering design and whether the bridge has artistic merit.
+\n\n13. A bridge is considered to fail when it breaks or sags more than 9cm.</item>
+    </string-array>
+    <string-array name="tekken">
+        <item>Takken 5</item>
+        <item>11:30AM-1:30PM</item>
+        <item>I-Car 1</item>
+        <item>Fee - 50\nFirst Prize - 500\nSecond Prize - 300
+\n\n1. The game will be 1vs1 arcade mode.
+\n\n2. Match duration will be 60 seconds for a round.
+\n\n3. Best of 3 rounds will qualify for the next round.
+\n\n4. Players are provided with a standard keyboard and mouse. Other Controllers are allowed.
+\n\n5. There will be no customizing colors, names or items at any time before or during a tournament match. Any player that does so will be given a loss.
+\n\n6. Stage will be selected randomly.
+\n\n7. The tournament organizers reserve the right to cancel or modify the tournament rules if technical failures or any other factor beyond reasonable control, impairs the integrity of the tournament.</item>
+    </string-array>
+    <string-array name="onset">
+        <item>OnSet(StartUp Idea Competition)</item>
+        <item>11:30AM-1:00PM</item>
+        <item>Board Room</item>
+        <item>Fee - 100\nFirst Prize - 500\nSecond Prize - 300
+\n\n1. The objective of the event is to provide ambitious students with an invaluable opportunity to showcase their B – plans in front of college administration. This will give them a clear picture of the feasibility of their ideas. The event will lay a foundation for interesting ideas focused on building innovation driven start-ups. The idea of “” is to make a significant effort towards the identification of right markets, building right products, securing initial partners and customers for startups apart from giving the participants a chance to relook at their idea.
+\n\n2. Criteria Team size:
+\n\u2022 Team of 1 - 3 members
+\n\u2022 Write ups to be sent at https://goo.gl/forms/FXaEag9Bkrx5Qd0H2
+\n\u2022 The start-up up plan that is expected in the first stage of the competition should be detailed.
+\n\n3. Following are the four aspects that shall be looked into for judgment.
+\n\u2022 The problem statement
+\n\u2022 The core idea: Solutions
+\n\u2022 Marketing strategy: Pitching Strategy / Value proposition
+\n\u2022 Financials: Investments plans
+\n\n4. The process shall be held as a two-stage process:
+\n\u2022 Functional Prototype
+\n\u2022 The first stage of the process involves participants sending in their start-up plan summaries to the official e-mail address (techjalsa@technonjr.org) by 7th of march 2017.
+\n\u2022 The start-up plan should be extensive in regards to explaining everything regarding the idea.
+\n\u2022 The finalists shall be announced on 8th march 2017.
+\n\n5. PPT - Pitching Session
+\n\u2022 This round shall be a presentation round in front of the jury and requires the participants to come down to the institute.
+\n\n\nRULES
+\n\u2022 This event is open for all.
+\n\u2022 Round 1 is a prototyping round.
+\n\u2022 The Second Round would happen at Techno India NJR Institute of Technology.
+\n\u2022 The Summary should not exceed 5 Pages.
+\n\u2022 Winners would be declared on the basis of Round 2.
+\n\u2022 The Jury’s decision would be final and binding on all the participants.</item>
+    </string-array>
+    <string-array name="story">
+        <item>Jigsaw Story Writing</item>
+        <item>11:30AM-12:30PM</item>
+        <item>Language Lab</item>
+        <item>Fee - 50\nFirst Prize - 500\nSecond Prize - 300
+\n\n1. Solo entry based event.
+\n\n2. The words will be given on the spot.
+\n\n3. The time limit allotted will be 30 mins.
+</item>
+    </string-array>
+    <string-array name="avatar">
+        <item>Avatar(Face Painting)</item>
+        <item>12:30PM-2:00PM</item>
+        <item>Common Area</item>
+        <item>Fee - 50\nFirst Prize - 500\nSecond Prize - 300
+\n\n1. Solo entry based event.
+\n\n2. Colours will be provided by college. No participant is allowed to add more colours on itself.
+\n\n3. Only 1 face is to be painted in two hours.
+\n\n4. The partner should be with the participant.
+\n\n5. There should be a message/ theme behind the painted face.</item>
+    </string-array>
+    <string-array name="soccer">
+        <item>Aqua Robo Soccer</item>
+        <item>12:30PM-2:00PM</item>
+        <item>Techno Circle</item>
+        <item>Fee - 200\nFirst Prize - 1000\nSecond Prize - 700
+\n\n1. Power supply specs 12V, 5Amp. (Only Dc power supply).
+\n\n2. No battery or power supply will be provided all the teams have manage their own power supplies.
+\n\n3. If the Bot in the field is immobile for more than 30 sec than that team will be disqualified.
+\n\n4. Maximum 4 members per team will be allowed.
+\n\n5. Wireless bot is most preferred in case of wired bot it will be inspected by the event organizers for the safety reasons.
+\n\n6. Number of motors used in the bot will affect the marking criteria (i.e. less the number of motors more will be the marks awarded).
+\n\n7. No other fuels like gases, diesel or petrol will be allowed to run the bots only electrical power supply will be allowed.
+\n\n8. Bot should not exceed the dimension of length =30 inches width = 7 inches N=8000rpm
+\n\n9. GAME PLAY RULES
+\n Round 1 - Water-Polo: The bot will have to pick the specified color ball (one at a time) and lead forward to the assigned goal post by passing the hurdles. Maximum number of the balls collected in given time in the assigned goalpost will be counted and the team with maximum number of balls will be declared as winner.
+\n Round 2 Pool Carom: There will be 20 single colour balls and one queen (red coloured) will be in the water arena. Queen has 10 pts and rest of the balls have 1 point each. The team which will collect the max points will be winner. In case of multiple winners and tie there will a 3rd round which will be a robo war and a last standing bot will be winner.</item>
+    </string-array>
+    <string-array name="roadies_one">
+        <item>Roadies Round 1</item>
+        <item>2:00PM-4:00PM</item>
+        <item>Techno Circle</item>
+        <item>Fee - 300\nFirst Prize - 4000\nSecond Prize - 1500\nThird Prize - 1500
+\n\n1. Each team will consist of 3 students.
+\n\n2. Name of the team should be given to volunteer.
+\n\n3. Other rules will be announced according to round on the spot itself.</item>
+    </string-array>
+    <string-array name="rocket">
+        <item>Aqua Launcher(Bottle Rocket)</item>
+        <item>3:30PM-4:00PM</item>
+        <item>Garden</item>
+        <item>Fee - 100\nFirst Prize - 500\nSecond Prize - 300
+\n\n1. Water Rocket and all its components should be handmade. Readymade models are strictly not allowed.
+\n\n2. Your model can be of any size or shape and can be made by any material.
+\n\n3. If your model is found to dangerous, you will not be allowed to participate in the event. Whether or not your model is dangerous that will be decided by the panel of event coordinators.
+\n\n4. Only water and air can be use as propellants.
+\n\n5. A team can consist of maximum 4 members.
+\n\n6. Judging criteria will disclose on the day of event</item>
+    </string-array>
+    <string-array name="stunt">
+        <item>Stunt Mania</item>
+        <item>4:00PM-5:00PM</item>
+        <item>Garden</item>
+        <item>Description</item>
+    </string-array>
+
+    <!-- 10th March Events-->
+    <string-array name="cs">
+        <item>Counter Strike</item>
+        <item>8:00AM-4:00PM</item>
+        <item>Computer Lab</item>
+        <item>Fee - 500\nFirst Prize - 3000\nSecond Prize - 2000
+\n\n1. The team shall comprise of five members.
+\n\n2. First round will be knife round.
+\n\n3. Winner of this round will decide the team i.e. terrorist/counter terrorist or the map either of the two. The other factor will be decided by losing team.
+\n\n4. The map list for the tournament will be revealed at the time of competition.
+\n\n5. The team captain is responsible for ensuring his team and players adhere to the rules fully. Ignorance of the rules is not an excuse for rule violations.
+\n\n6. Tactical shield is not allowed.
+\n\n7. Guns which are not allowed in match: Bullpup, Kriez, D3. And any other type of Sniper rifle is not allowed.
+\n\n8. There will be 10 rounds in total.(5 CT and 5 T. Win 6 rounds to qualify)
+\n\n9. Playing with fewer than five players in any match is permitted.
+\n\n10. If disconnection occurs during a match: scores till the last round will continue and starting money will be decided by the organizers.
+\n\n11. Use of map bugs is prohibited.
+\n\n12. Bunny hop without Script is allowed.</item>
+    </string-array>
+    <string-array name="sketch">
+        <item>Monochrome(Sketching)</item>
+        <item>8:00AM-9:00AM</item>
+        <item>Language Lab</item>
+        <item>Fee - 50\nFirst Prize - 500\nSecond Prize - 300
+\n\n1. Solo entry based event.
+\n\n2. Drawing sheets will be provided by the college.
+\n\n3. Participants must bring extra required materials on their own.
+\n\n4. Use of stencils is not permitted.
+\n\n5. The time limit for the preparation shall be declared on the spot.
+\n\n6. The theme shall be declared on the spot.</item>
+    </string-array>
+    <string-array name="debate">
+        <item>Moot Court(Debate)</item>
+        <item>9:00AM-10:00AM</item>
+        <item>Seminar Hall -1</item>
+        <item>Fee - 50\nFirst Prize - 500\nSecond Prize - 300
+\n\n1. Solo entry based event for English debate.
+\n\n2. The time limit will be 3 minutes. A warning will be given on completion of 3 minutes. Participant has to wrap up in 30 seconds otherwise marks shall be deducted.
+\n\n3. The topic for the debate will be given 2-3 days prior to the event &amp; the participant can choose to speak either in favour or against of the topic.
+</item>
+    </string-array>
+    <string-array name="mini">
+        <item>Mini Militia</item>
+        <item>9:00AM-12:00AM</item>
+        <item>I-Car 3</item>
+        <item>Fee - 100\nFirst Prize - 800\nSecond Prize - 500
+\n\n1. The game will be played in team of 3 members; one match will have 4 teams.
+\n\n2. Match duration 6 minute 40 seconds.
+\n\n3. Only the team with highest points will qualify for the next round.
+\n\n4. The map will be decided on the basis of votes but if votes are tied then coin toss will be done between high tower and catacomb.
+\n\n5. Players can either bring their own mobile phones or ask the administrator for mobile phone (depends on availability).
+\n\n6. To prevent any unfair means, all the teams going to play should uninstall previous versions of Mini-Militia and should install a fresh versions of Mini-Militia in front of Coordinators or opponents.
+\n\n7. The teams should check for any discrepancies before the start of event otherwise the game will continue as usual with the same configurations if anything reported at the mid of the game.
+\n\n8. The player will be responsible for Calls, notifications, alarms, battery low etc. during the match.
+\n\n9. The Organizer has the right to disqualify and dismiss any registered player from the tournament, at their discretion, at any stage of the tournament, for any reason, with no prior warning to the player.
+\n\n10. The tournament organizers reserve the right to cancel or modify the tournament rules if technical failures or any other factor beyond reasonable control, impairs the integrity of the tournament.
+</item>
+    </string-array>
+    <string-array name="roadies_two">
+        <item>Roadies Round 2</item>
+        <item>9:00AM-11:00AM</item>
+        <item>Techno Circle</item>
+        <item>One Time Fee For All Rounds</item>
+    </string-array>
+    <string-array name="iot">
+        <item>IOT Innovation</item>
+        <item>11:00AM-12:00PM</item>
+        <item>Wireless Lab</item>
+        <item>Fee - 200\nFirst Prize - 1000\nSecond Prize - 500
+\n\n1. Only working models and prototypes will be accepted.
+\n\n2. Team should comprise of maximum 3 members.
+\n\n3. Only the top 3 projects will be selected.
+\n\n4. There should be uniqueness in the project; copied project will not be entertained.
+\n\n5. Organizers will only provide display table , power supply , wifi only.
+\n\n6. Project should be ready 1 hour prior to the competition.
+\n\n7. Project will be judged mainly on the basis of its utility in day to day life for the common man, uniqueness, algorithm applied and the overall cost of the project.
+</item>
+    </string-array>
+    <string-array name="omg">
+        <item>OMG(Temporary Tattoo)</item>
+        <item>11:00AM-12:00PM</item>
+        <item>Class Room CS</item>
+        <item>Fee - 50\nFirst Prize - 500\nSecond Prize - 300
+\n\n1. Each team shall comprise of two members (one participant and the other partner).
+\n\n2. Each team shall be provided with the limited number and quantity of colours initially and no external material is allowed to be used.
+\n\n3. Stencils, stickers and other reference materials not allowed.</item>
+    </string-array>
+    <string-array name="rangoli">
+        <item>Rangrez(Rangoli)</item>
+        <item>12:00PM-2:00PM</item>
+        <item>Machine Lab</item>
+        <item>Fee - 100\nFirst Prize - 500\nSecond Prize - 300
+\n\n1. Each team should include maximum of three participants.
+\n\n2. Participants must bring colours on their own.
+\n\n3. Use of stencils/ frames is not allowed.</item>
+    </string-array>
+    <string-array name="btb">
+        <item>Bob The Builder(Elevation Design)</item>
+        <item>12:00PM-2:00PM</item>
+        <item>CAD Lab</item>
+        <item>Fee - 50\nFirst Prize - 500\nSecond Prize - 300
+\n\n1. Team consist of only one member.
+\n\n2. Time limit : 2Hrs
+\n\n3. Softwares allowed:
+\n\u2022 3Ds Max + 3Ds Max
+\n\u2022 Auto Cad + 3Ds Max
+\n\u2022 Revit
+\n\n4. Participants must keep both Plan &amp; 3-D Rendered view at time of judgement.
+\n\n5. Participants must keep saving their files at small duration, organising committee will not hold any responsibility for any loss due to system failure or power failure.
+\n\n6. Planning must be based on Vastu
+\n\n7. Use on internet or any mobile device during the competition is strictly ban, Any such use during the competition will make you disqualify.
+\n\n8. Extensive rendering may be allowed maximum duration of 24 Hrs.
+\n\n9. Judgment will be based on Accuracy, and Practicality of the project made.</item>
+    </string-array>
+    <string-array name="robowar">
+        <item>Steel Avengers(Robo War)</item>
+        <item>11:00AM-1:00PM</item>
+        <item>Techno Circle</item>
+        <item>Fee - 300\nFirst Prize - 3000\nSecond Prize - 2000
+\n\n1. The competition will be played on a knock-out basis.
+\n\n2. The bot will be inspected for safety before the event begins. If found to be unsafe for the participants/spectators, it will be discarded.
+\n\n3. The organizers reserve the right to change any or all of the rules as they deem fit. Changes in rules, if any, will be highlighted on the website.
+\n\n4. Violation of any of the rules will result in immediate disqualification.
+\n\n5. The maximum time limit for the clash of combatants inside the arena is 5 minutes tentatively.
+\n\n6. A bot will be declared immobile (out) if it cannot exhibit linear motion of at least one inch within 30 seconds. A bot with one side of its drive train disabled will not be counted out if it can demonstrate some degree of controlled movement.
+\n\n7. Teams that are not ready when called for battle will be considered to have declared a walkover, and will receive no points.
+\n\n8. The bot cannot be split into two sub-units. Two distinct parts connected by a flexible cable will be considered separate units.
+\n\n9. Damaging the arena will lead to immediate disqualification.
+\n\n10. Lego kits, readymade kits, car bases and development boards are not permitted. Readymade gear boxes are permitted.
+\n\n11. In all cases, the judges\' decision will be final and binding.
+\n\n12. Robot Specifications Size
+\n\u2022 The size of the bot can range from 600mm X 600mm X 800mm to 800mm x 800mm x 800mm (l X b X h).
+\n\u2022 Any external control devices or tanks are not included in the size constraint.
+\n\u2022 Batteries should be standard 48 v and up to 12Amph
+\n\u2022 No power supply will be provided all the teams have to arrange their own power supply
+\n\u2022 Max weight of the bot should not exceed 40 kg.</item>
+    </string-array>
+    <string-array name="gd">
+        <item>Symposium(Group Discussion)</item>
+        <item>1:00PM-3:00PM</item>
+        <item>Seminar Hall-1</item>
+        <item>Fee - 50\nFirst Prize - 500\nSecond Prize - 300
+\n\n1. Solo entry based event. The participants will be grouped in teams &amp; each team will be given a topic for discussion.
+\n\n2. The time limit for each team will be 15-20 minutes.
+\n\n3. Topics will be given on the spot.</item>
+    </string-array>
+    <string-array name="roadies_three">
+        <item>Roadies Round 3</item>
+        <item>1:00PM-3:00PM</item>
+        <item>Garden</item>
+        <item>One Time Fee For All Rounds</item>
+    </string-array>
+    <string-array name="closing_two">
+        <item>Tal-Mel/Fashion/Step-UP(Dance Face OFF)/DJ Night</item>
+        <item>7:00PM</item>
+        <item>Garden</item>
+        <item>Tal-Mel\nFee - 100\nFirst Prize - 1000\nSecond Prize - 500\nFashion\nFee - 200\nFirst Prize - 1000\nStep-UP\nFee - 100\nFirst Prize - 800\nSecond Prize - 400
+\n\nTal-Mel: \n\n1. The maximum time allowed to each participant is 3 minutes.
+\n\n2. Contestants have to carry their own karaoke track of their desired song with them.
+\n\n3. Elimination round will depend upon the number of entries.
+\n\nFashion: \n\n Theme: Ethnic
+\n\n1. The participants should dress up strictly according to the theme.
+\n\n2. The participants should bring their own sound tracks for the walk.
+\n\n3. The elimination will be based on the performance of first round i.e., ramp walk.
+\n\n Dance Face Off \n\n1. Solo entry based event.
+\n\n2. The music for the performance will be provided on the spot.
+\n\n3. The timer for a crew starts at the very moment when the dancer steps into the performing area.
+\n\n4. Each contestant will be given 45 seconds to perform individually and last 1 minute would be common for all.
+</item>
+    </string-array>
+    <!-- 10th March Events-->
+
+    <!-- 11th March Events-->
+    <string-array name="iGenius">
+        <item>i-Genius(Technical Quiz)</item>
+        <item>8:30AM-10:30AM</item>
+        <item>Techno Circle</item>
+        <item>Fee - 100\nFirst Prize - 500\nSecond Prize - 300
+\n\n1. The team shall be comprises of three members.
+\n\n2. The preliminary round will be a written one.
+\n\n3. Top 10 teams will advance to the next round.
+\n\n4. Mobiles, calculators and other accessories are not permitted.</item>
+    </string-array>
+    <string-array name="impromptu">
+        <item>Impromptu(Extemporary)</item>
+        <item>8:30AM-9:30AM</item>
+        <item>Seminar Hall-1</item>
+        <item>Fee - 50\nFirst Prize - 500\nSecond Prize - 300
+\n\n1. Solo entry based event.
+\n\n2. The time limit will be 2 minutes. A warning will be given on completion of 2 minutes. Participant has to wrap up in 30 seconds otherwise marks shall be deducted.
+\n\n3. Topics will be of current affairs &amp; will be given on the spot.
+</item>
+    </string-array>
+    <string-array name="mehandi">
+        <item>Charm of Palm(Mehandi)</item>
+        <item>8:30AM-9:30AM</item>
+        <item>Language Lab</item>
+        <item>Fee - 50\nFirst Prize - 500\nSecond Prize - 300
+\n\n1. Solo entry based event.
+\n\n2. The design should be unique and creative out of your imagination.
+\n\n3. Participants should bring their own material.
+\n\n4. No glitter, tattoos allowed.
+\n\n5. No reference material allowed.
+\n\n6. Time duration is of 60 minutes.
+\n\n7. The design must be on both sides of the hand.
+</item>
+    </string-array>
+    <string-array name="fifa">
+        <item>Fifa</item>
+        <item>8:30AM-12:00PM</item>
+        <item>I-Caar 1</item>
+        <item>Fee - 100\nFirst Prize - 800\nSecond Prize - 500
+\n\n1. Game version: FIFA 15 kick off mode.
+\n\n2. Match type: 1v1.
+\n\n3. Players are provided with a standard keyboard and mouse. Other Controllers are allowed.
+\n\n4 Game-Play Settings
+\n\u2022 4-minute Halves
+\n\u2022 Injuries: On
+\n\u2022 Off Sides: On
+\n\u2022 Time/Score Display: On
+\n\u2022 Player Status Bar: Player Names
+\n\u2022 Camera: Dynamic or Tele
+\n\n5. Home side and away side will be decided with a coin toss between both players.
+\n\n6. Players are only allowed to pause the game for substitution if their team is in possession of the ball.
+\n\n7. All the teams are allowed to be picked except world 11, classic 11, EA 11, Adidas 11.
+\n\n8. If the scores tie in the given time golden goal will be played first and then penalties will take place.
+\n\n9. The administration has the right to disqualify players from the tournament after misconduct or unethical behavior during the Tournament</item>
+    </string-array>
+    <string-array name="rush">
+        <item>Rush(NFS)</item>
+        <item>8:30AM-12:00PM</item>
+        <item>I-Car 2</item>
+        <item>Fee - 100\nFirst Prize - 800\nSecond Prize - 500
+\n\n1. Game Version: NFS Most Wanted 1.3
+\n\n2. General Competition Method: 4 players
+\n\n3. Game Type: Circuit
+\n\n4. The Circuit is for 2 rounds
+\n\n5. Players getting the 1st position shall qualify for the next round.
+\n\n6. The tournament will be knock out.
+\n\n7. There will not be any match played for the third spot.
+\n\n8. Courses: Course selection is done by the Game Administrator
+\n\n9. Car Settings: All cars are available.
+\n\n10. Visual Upgrade allowed.
+\n\n11. Part, Performance (Pro, Super Pro, Ultimate)allowed, Junkman not allowed
+\n\n12. Personal save files are NOT allowed.
+\n\n13. Cars may be tuned before race; 60 seconds will be given for tuning.
+\n\n14. Race Mode Options:
+\n\u2022 Nitrous: On
+\n\u2022 Collision Detection: ON
+\n\u2022 Performance Matching: Off
+\n\u2022 Units: Player\'s own discretion
+\n\u2022 Game Moment Camera: Off
+\n\u2022 Car Damage: Off
+\n\u2022 Rear View Mirror: Player\'s own discretion.
+\n\n15. Players are provided with a standard keyboard and mouse. Other Controllers and Steering Wheel are allowed.
+\n\n16. Player will be disqualified by the administrator on the basis of:
+\n\u2022 Unfair play
+\n\u2022 Use of any cheat program
+\n\u2022 Intentional disconnection
+\n\u2022 Use of any settings exceeding standard and permitted settings
+</item>
+    </string-array>
+    <string-array name="wall">
+        <item>Wall Graffiti(Wall Painting)</item>
+        <item>9:00AM-11:00AM</item>
+        <item>Hostel</item>
+        <item>Fee - 50\nFirst Prize - 1000\nSecond Prize - 800
+\n\n1. Each team shall comprise of maximum of three participants.
+\n\n2. Each team shall be provided with a definite amount of wall space.
+\n\n3. The theme of painting shall be declared on the spot. Nothing abusive shall be entertained over the wall.
+\n\n4. Participants must bring only spray colors on their own.</item>
+    </string-array>
+    <string-array name="roadies_four">
+        <item>Roadies Round 4</item>
+        <item>10:30AM-12:30PM</item>
+        <item>Garden</item>
+        <item>One Time Fee For All Rounds</item>
+    </string-array>
+    <string-array name="codex">
+        <item>Codex(Coding)</item>
+        <item>12:30PM-1:30PM</item>
+        <item>I-Car 3</item>
+        <item>Fee - 50\nFirst Prize - 500\nSecond Prize - 300
+\n\n1. Solo entry based event.
+\n\n2. Questions will be provided on the spot and the programming language for solving the questions will be C, C++ and JAVA.</item>
+    </string-array>
+    <string-array name="tamasha">
+        <item>Tamasha(Nukkad Natak)</item>
+        <item>12:30PM-1:30PM</item>
+        <item>Techno Circle</item>
+        <item>Fee - 300\nFirst Prize - 1200\nSecond Prize - 800
+\n\n1. The time duration for drama/ skit should be of 15 to 20 minutes.
+\n\n2. The content/ theme/ story of drama should be catchy and as per the college decorum.
+\n\n3. The participants have to carry their costumes and other accessories with themselves.</item>
+    </string-array>
+    <string-array name="roadies_final">
+        <item>Roadies Final</item>
+        <item>1:30PM-3:00PM</item>
+        <item>To be declared</item>
+        <item>One Time Fee For All Rounds</item>
+    </string-array>
+    <string-array name="closing">
+        <item>Hooked Up, Aaja Nachle,Prize Distribution</item>
+        <item>7:00PM</item>
+        <item>College Campus</item>
+        <item>Hooked Up: \n\n1. The team shall comprise of at least 3 members and at most 12 members.
+\n\n2. Participants have to select the theme and music of their choice.
+\n\n3. Time duration of performance should be of 4 to 6 minutes.
+\n\n4. Participants must give some caption to their Group name.
+\n\n5. There will Rs.500 for 6 members and additional Rs.100 will be charged for every individual member.
+\n\nAaja Nachle :\n\n1. Participants may select the music of their choice, not exceeding 3 minutes.
+\n\n2. Costumes and props should be designed to fit the style of the dance and should be managed by participants themselves.
+\n\n3. Elimination round will depend upon the number of entries.</item>
+    </string-array>
+    <!-- 11th March Events-->
+
+    <string-array name="last_day">
+        <item>Holi Celebration &amp; Rain Dance Party</item>
+        <item>9:00AM-12:00PM</item>
+        <item>Garden</item>
+        <item>For Technoities Only
+\n\n RAIN DANCE PARTY WITH DJ LOVENISH</item>
+    </string-array>
+
+</resources>
