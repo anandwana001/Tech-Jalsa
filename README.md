@@ -1,7 +1,7 @@
 # Tech-Jalsa
 
 <p>
-<img src="Screenshots/logo" height = "100" width="100" align="right"> 
+<img src="Screenshots/logo.png" height = "100" width="100" align="right"> 
 </p>
 
 ### What is Tech-Jalsa
