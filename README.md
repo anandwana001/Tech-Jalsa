@@ -32,3 +32,16 @@ The moment to put the course books aside and swinging back into our fun-modes. *
 </p>
 	
 	
+## Release History
+
+* 0.0.1
+    * Work in progress
+
+
+## Meta
+
+Akshay Nandwana – [@akshay81844](https://twitter.com/akshay81844) – akshaynandwana001@gmail.com
+
+Distributed under the MIT LICENSE license. See [``LICENSE``](https://github.com/anandwana001/Tech-Jalsa/blob/master/LICENSE) for more information.
+
+### If you like the project give a star [:star:](https://github.com/anandwana001/Tech-Jalsa/stargazers)
