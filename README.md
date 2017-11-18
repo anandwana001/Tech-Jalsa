@@ -31,7 +31,11 @@ The moment to put the course books aside and swinging back into our fun-modes. *
 <img src="Screenshots/details.png" height = "400" width="200"> <img src="Screenshots/about.png" height = "400" width="200">
 </p>
 	
-	
+### TODO
+- [ ] Improve UI
+- [ ] Add PayTm payment option so that students direclty submit event fees through App
+- [ ] Solve Notification Issue
+
 ## Release History
 
 * 0.0.1
