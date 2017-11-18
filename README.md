@@ -1,5 +1,5 @@
 # Tech-Jalsa
-[![forthebadge](https://forthebadge.com/images/badges/built-for-android.svg](http://forthebadge.com)
+[![forthebadge](http://forthebadge.com/images/badges/built-for-android.svg)](http://forthebadge.com)
 [![forthebadge](http://forthebadge.com/images/badges/built-by-developers.svg)](http://forthebadge.com)
 [![forthebadge](http://forthebadge.com/images/badges/check-it-out.svg)](http://forthebadge.com)
 
