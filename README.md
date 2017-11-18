@@ -1,4 +1,7 @@
 # Tech-Jalsa
+[![forthebadge](https://forthebadge.com/images/badges/built-for-android.svg](http://forthebadge.com)
+[![forthebadge](http://forthebadge.com/images/badges/built-by-developers.svg)](http://forthebadge.com)
+[![forthebadge](http://forthebadge.com/images/badges/check-it-out.svg)](http://forthebadge.com)
 
 <p>
 <img src="Screenshots/logo.png" height = "100" width="100" align="right"> 
@@ -27,3 +30,5 @@ The moment to put the course books aside and swinging back into our fun-modes. *
 <p align="center">
 <img src="Screenshots/details.png" height = "400" width="200"> <img src="Screenshots/about.png" height = "400" width="200">
 </p>
+	
+	
