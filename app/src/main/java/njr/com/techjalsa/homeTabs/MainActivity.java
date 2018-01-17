@@ -100,6 +100,15 @@ public class MainActivity extends AppCompatActivity {
         }else if(item.getItemId() == R.id.game_play){
             Intent i= new Intent(MainActivity.this,start.class);
             startActivity(i);
+        }else if(item.getItemId() == R.id.app_share){
+            String shareText = "Hey, Download Tech Jalsa[URL] app for all the information regarding Tech Fest of Techno India NJR.";
+            String shareSubject = "Tech Jalsa App";
+            Intent intent = new Intent(Intent.ACTION_SEND);
+                intent.setType("text/plan");
+                intent.putExtra(Intent.EXTRA_TEXT,shareText);
+                intent.putExtra(Intent.EXTRA_SUBJECT,shareSubject);
+                if(intent.resolveActivity(getPackageManager()) != null)
+                    startActivity(intent);
         }else if(item.getItemId() == R.id.about_us){
             Intent intent = new Intent(this, LocalWebActivity.class);
             intent.putExtra(LocalWebActivity.EXTRA_HTML_URI, "html/about.html");
