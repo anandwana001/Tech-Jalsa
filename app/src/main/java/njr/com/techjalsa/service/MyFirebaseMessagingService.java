@@ -1,4 +1,4 @@
-package njr.com.techjalsav2.service;
+package njr.com.techjalsa.service;
 
 import android.app.Notification;
 import android.app.NotificationManager;
