@@ -15,10 +15,10 @@ import com.google.firebase.messaging.RemoteMessage;
 import org.json.JSONException;
 import org.json.JSONObject;
 
-import njr.com.techjalsav2.R;
-import njr.com.techjalsav2.app.Config;
-import njr.com.techjalsav2.homeTabs.MainActivity;
-import njr.com.techjalsav2.util.NotificationUtils;
+import njr.com.techjalsa.R;
+import njr.com.techjalsa.app.Config;
+import njr.com.techjalsa.homeTabs.MainActivity;
+import njr.com.techjalsa.util.NotificationUtils;
 
 /**
  * Created by dell on 21-02-2017.
