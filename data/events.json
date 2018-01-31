@@ -1,0 +1,19 @@
+[{
+		"id": 101,
+		"name": "Inaugral Function",
+		"description": "Pack your Bags, load your passions and land up to Techno India NJR",
+		"location": "Techno Circle",
+		"timestamp": 1519297200,
+		"imageUrl": "https://github.com/anandwana001/Tech-Jalsa/raw/master/app/src/main/res/drawable-xxxhdpi/inaguration.jpg",
+		"facebookEventLink": "https://www.facebook.com/events/146369969401971/",
+		"additionalInfo": [],
+		"categories": [
+			"informal"
+		],
+		"organizers": [{
+				"name": "Gaurav Kumawat",
+				"phoneNumber": 9785282959
+			}
+		]
+	}
+]
