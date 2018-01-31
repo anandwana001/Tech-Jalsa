@@ -15,5 +15,43 @@
 				"phoneNumber": 9785282959
 			}
 		]
+	},
+	{
+		"id": 102,
+		"name": "Counter Strike",
+		"description": "For the hardcore gamers, we bring to your service the game of the generation - Counter Strike. Happy Hunting!!",
+		"location": "iCar-1",
+		"timestamp": 1519297200,
+		"imageUrl": "https://github.com/anandwana001/Tech-Jalsa/raw/master/app/src/main/res/drawable-xxxhdpi/inaguration.jpg",
+		"facebookEventLink": "https://www.facebook.com/events/146369969401971/",
+		"additionalInfo": [],
+		"categories": [
+			"informal",
+			"gaming"
+		],
+		"organizers": [{
+				"name": "Gaurav Kumawat",
+				"phoneNumber": 9785282959
+			}
+		]
+	},
+	{
+		"id": 103,
+		"name": "Quiz",
+		"description": "From Game Of Thrones to Suits and From How I Met Your Mother to Friends, this event will make you relive those amazing moments to the core.",
+		"location": "CTechno Circle",
+		"timestamp": 1519297200,
+		"imageUrl": "https://github.com/anandwana001/Tech-Jalsa/raw/master/app/src/main/res/drawable-xxxhdpi/inaguration.jpg",
+		"facebookEventLink": "https://www.facebook.com/events/146369969401971/",
+		"additionalInfo": [],
+		"categories": [
+			"informal",
+			"quiz"
+		],
+		"organizers": [{
+				"name": "Gaurav Kumawat",
+				"phoneNumber": 9785282959
+			}
+		]
 	}
 ]
