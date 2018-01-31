@@ -1,0 +1,13 @@
+[  
+   {  
+      "id":1001,
+      "name":"DSC",
+      "imageUrl":"https://github.com/anandwana001/anandwana001.github.io/raw/master/images/profile-pic.jpg",
+      "categories":[  
+         "App Sponsor",
+         "Developer Student Club"
+      ],
+      "website":"https://www.facebook.com/DSCUDR.IN/",
+      "priority":1
+   }
+]
