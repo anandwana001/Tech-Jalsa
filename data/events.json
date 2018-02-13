@@ -1,6 +1,6 @@
 [{
 		"id": 101,
-		"name": "Inaugral Function",
+		"name": "Inaugural Function with plantation",
 		"description": "Pack your Bags, load your passions and land up to Techno India NJR",
 		"location": "Techno Circle",
 		"timestamp": 1519297200,
@@ -18,15 +18,15 @@
 	},
 	{
 		"id": 102,
-		"name": "Counter Strike",
-		"description": "For the hardcore gamers, we bring to your service the game of the generation - Counter Strike. Happy Hunting!!",
-		"location": "iCar-1",
+		"name": "Setu (Bridge Making)",
+		"description": "Fee-100\nPrizeI-500\nII-300\nBridge Material Kit: Each bridge material kit consists of 200 numbers of Popsicle sticks, one bottle of fevicol, cutter, pins and rules sheet. Construction of Model Bridges: Only wooden popsicle sticks, fevicol and pins can be used to construct the bridges. No other materials are permitted. The wooden sticks can be cut to fit as desired. The amount of sticks and fevicol used in the bridge is limited only by the dimensions restrictions. Please note the following when you design and build your bridge: During the strength test of the bridge, one horizontal metal bar will be placed along the road deck of the bridge, at the center of the bridge. The weight on the bar will be hung using a hook. By placing the bar across the road deck in this manner, we ensure that the truss members of the bridge are stressed during the strength test. The builder of the model bridge shall ensure that there is one 2cm x 2cm opening through the center of the road deck of the bridge, to accommodate the vertical bar. Bridges should be built to ensure that the region underneath the horizontal bar is properly reinforced to distribute the force applied during the test. During the test, the bridge will rest on two tables placed exactly 50cm apart. These tables are loose and will resist the downward force applied to the bridge. The tables will not resist any sideways force exerted on them. Therefore ‘arch’ style bridges, which normally require an inward force on the ends of the arch for proper support, will not perform well in this competition. Dimensions of the bridge: The length of the bridge must be between 60cm and 70cm at its base. This is critical, and the bridge will be disqualified if it is shorter than 60cm and will be penalized if it is longer than 70cm at the base. The road surface of the bridge can be curved, if desired, but must be at least 6 cm wide along its entire length. The road surface is that part of the bridge deck available to be used by a model car travelling over the bridge. The road must be sufficiently smooth and continuously to allow a small model car to travel. The overall width of the bridge shall not exceed 15 cm. This is critical, and the bridge will be penalized if it is wider than 15cm. The overall height of the bridge shall not exceed 15 cm. Overall height means from lowest point to highest point. This is critical, and the bridge will be penalized if it is higher than 15 cm. How to accumulate points in the competition: Keep the glued joints clean and trimmed. At the joints, be sure to overlap the sticks and wipe off excess glue. Edges that are intended to be parallel should look parallel. Keep the structure symmetrical. Try to use some artistic imagination. Try to use engineering principles, to transfer the force from the middle of the bridge to its supports. Comply with the Dimensions restrictions to avoid penalties. Penalties: 2 points will be deducted for each 1 cm from the score if the bridge is longer than 70 cm at the base. 5 points will be deducted for each 1 cm (or partition thereof) that the bridge’s height exceeds 15cm. 1 point will be deducted for each 1cm that the bridge’s width exceeds 15cm. Ground for Disqualification: Entries will be disqualified if they use any material other than provided. Entries will be disqualified if the bridge length is shorter than 60cm. Entries will be disqualified if there is evidence of heat treating (baking etc.) Labeling: All finished bridges are to be labeled or identified by putting their Team name. Judging & Testing of bridges: The judging of the bridges is comprised of 4 main areas: Quality of Construction (10 points maximum) Application of Engineering Principles (20 points maximum) Aesthetics (10 points maximum) Strength (60 points maximum) The strength factor will be computed using the formula: The bridge with the highest strength factor will be given a score of 60. All other bridge entries within the category will be given a score less than 60, based on the ratio of their strength factor score to the highest strength factor score. The score will be calculated as The ‘Quality of Construction’, ‘application of Engineering Principles’ and ‘Aesthetics’ aspects of the competition will judge the model bridge on bridge build quality, good engineering design and whether the bridge has artistic merit. A bridge is considered to fail when it breaks or sags more than 9cm. ",
+		"location": "Workshop",
 		"timestamp": 1519297200,
 		"imageUrl": "https://github.com/anandwana001/Tech-Jalsa/raw/master/app/src/main/res/drawable-xxxhdpi/inaguration.jpg",
 		"facebookEventLink": "https://www.facebook.com/events/146369969401971/",
 		"additionalInfo": [],
 		"categories": [
-			"main_stage"
+			"technical"
 		],
 		"organizers": [{
 				"name": "Gaurav Kumawat",
@@ -36,20 +36,566 @@
 	},
 	{
 		"id": 103,
-		"name": "Quiz",
-		"description": "From Game Of Thrones to Suits and From How I Met Your Mother to Friends, this event will make you relive those amazing moments to the core.",
-		"location": "CTechno Circle",
+		"name": "Tamasha (Nukkad Natak)",
+		"description": "Fee-400\nPrizeI-1200\nII-800\nFor the hardcore gamers, we bring to your service the game of the generation - Counter Strike. Happy Hunting!!",
+		"location": "Techno Circle",
 		"timestamp": 1519297200,
 		"imageUrl": "https://github.com/anandwana001/Tech-Jalsa/raw/master/app/src/main/res/drawable-xxxhdpi/inaguration.jpg",
 		"facebookEventLink": "https://www.facebook.com/events/146369969401971/",
 		"additionalInfo": [],
 		"categories": [
-			"main_stage"
+			"cultural"
 		],
 		"organizers": [{
 				"name": "Gaurav Kumawat",
 				"phoneNumber": 9785282959
 			}
 		]
-	}
+	},
+ {
+		"id": 104,
+		"name": "Avatar (Face painting)",
+		"description": "Fee-50\nPrizeI-500\nII-300\nFor the hardcore gamers, we bring to your service the game of the generation - Counter Strike. Happy Hunting!!",
+		"location": "Techno Circle",
+		"timestamp": 1519297200,
+		"imageUrl": "https://github.com/anandwana001/Tech-Jalsa/raw/master/app/src/main/res/drawable-xxxhdpi/inaguration.jpg",
+		"facebookEventLink": "https://www.facebook.com/events/146369969401971/",
+		"additionalInfo": [],
+		"categories": [
+			"art_and_craft"
+		],
+		"organizers": [{
+				"name": "Gaurav Kumawat",
+				"phoneNumber": 9785282959
+			}
+		]
+	},{
+		"id": 105,
+		"name": "Robo Race",
+		"description": "Fee-200\nPrizeI-1000\nII-700\n Water Rocket and all its components should be handmade. Readymade models are strictly not allowed. Your model can be of any size or shape and can be made by any material. If your model is found to dangerous, you will not be allowed to participate in the event. Whether or not your model is dangerous that will be decided by the panel of event coordinators. Only water and air can be used as propellants. A team can consist of maximum 4 members. Judging criteria will disclose on the day of event. Event Rules: The game consists of two teams of robots playing soccer against each other. Each team has two autonomous/manual robots. The game will consist of two halves. The duration of each half is 5-minutes. There will be 2-minute break in between the halves. Pre-match meeting: At the start of the first half of the game, a referee will toss a coin. The team mentioned first in the draw shall call the coin. The winner of the toss can choose either which end to kick to, or to kick off first. The loser of the toss will settle for the other option. After the first half, teams will switch sides. The team not kicking off in the first half of the game will kick off to begin the second half of the game. Kick-off: Each half of the game begins with a kick-off. All robots must be located on their own side of the field. All robots must be halted. The ball is positioned by a referee in the center of the field. The team kicking off places their robots on the field first. Robots cannot be placed nor remain behind the goal line or in the outer area. Robots cannot be repositioned once they have been placed. The team not kicking off will now place their robots on the defensive end of the field. On the referee's command all robots will be started immediately by each captain. Any robots that are started early will be removed by the referee from the field and treated as a damaged robot. Ball movement: A robot cannot hold a ball. Holding a ball means taking full control of the ball by removing all of its degrees of freedom. Examples for ball holding include fixing a ball to the robot's body, surrounding a ball using the robot's body to prevent access by others, encircling the ball or somehow trapping the ball with any part of the robot's body. If a ball stops rolling while a robot is moving or a ball does not rebound when rolled into a robot, it is a good indication that the ball is trapped. Goalie: The robot moving first into the penalty area on a team’s defending side completely (with every part of it) is designated as goalie until a part of it leaves the penalty area. Pushing: Within the penalty area, the goalie has priority. Attacking robots are not supposed to push the goalie in any way. If the attacker and the goalie touch each other and at least one of them has physical contact with the ball, the ball will be moved to the nearest unoccupied neutral spot immediately. If a goal is scored as a result of this pushed-situation, it will not be granted. Lack of progress: Lack of progress occurs if there is no progress in the gameplay for a reasonable period of time and the situation is not likely to change. Typical lack of progress situations are when the ball is stuck between robots, when there is no change in ball and robot’s positions, or when the ball is beyond detection or reach capability of all robots on the field. After a visible and loud count, a referee will call “lack of progress” and will move the ball to the nearest unoccupied neutral spot. If this does not solve the lack of progress, the referee can move the ball to different neutral spots. Out of bounds: If a robot’s entire body moves out beyond the white line of the field completely, it will be called for being out of bounds. When this situation arises, the robot is given a one-minute penalty, and the team is asked to remove the robot from the field. There is no time stoppage for the game itself. The robot is allowed to return if a kickoff occurs before the penalty has elapsed. Damaged robots: If a robot is damaged, it has to be taken off the field and must be fixed before it can play again. Even if repaired, the robot must remain off the field for at least one minute or until the next kickoff is due. If all robots have moved out of bounds, the penalties are discarded and the match resumes with a neutral kickoff. ",
+		"location": "Garden",
+		"timestamp": 1519297200,
+		"imageUrl": "https://github.com/anandwana001/Tech-Jalsa/raw/master/app/src/main/res/drawable-xxxhdpi/inaguration.jpg",
+		"facebookEventLink": "https://www.facebook.com/events/146369969401971/",
+		"additionalInfo": [],
+		"categories": [
+			"technical"
+		],
+		"organizers": [{
+				"name": "Gaurav Kumawat",
+				"phoneNumber": 9785282959
+			}
+		]
+	},{
+		"id": 106,
+		"name": "Counter Strike",
+		"description": "Fee-500\nPrizeI-3000\nII-2000\nFor the hardcore gamers, we bring to your service the game of the generation - Counter Strike. Happy Hunting!!",
+		"location": "Computer Lab",
+		"timestamp": 1519297200,
+		"imageUrl": "https://github.com/anandwana001/Tech-Jalsa/raw/master/app/src/main/res/drawable-xxxhdpi/inaguration.jpg",
+		"facebookEventLink": "https://www.facebook.com/events/146369969401971/",
+		"additionalInfo": [],
+		"categories": [
+			"gaming"
+		],
+		"organizers": [{
+				"name": "Gaurav Kumawat",
+				"phoneNumber": 9785282959
+			}
+		]
+	},{
+		"id": 107,
+		"name": "Monochrome (Sketching)",
+		"description": "Fee-50\nPrizeI-500\nII-300\nFor the hardcore gamers, we bring to your service the game of the generation - Counter Strike. Happy Hunting!!",
+		"location": "Language Lab",
+		"timestamp": 1519297200,
+		"imageUrl": "https://github.com/anandwana001/Tech-Jalsa/raw/master/app/src/main/res/drawable-xxxhdpi/inaguration.jpg",
+		"facebookEventLink": "https://www.facebook.com/events/146369969401971/",
+		"additionalInfo": [],
+		"categories": [
+			"art_and_craft"
+		],
+		"organizers": [{
+				"name": "Gaurav Kumawat",
+				"phoneNumber": 9785282959
+			}
+		]
+	},{
+		"id": 108,
+		"name": "Impromptu (Extemporary)",
+		"description": "Fee-50\nPrizeI-500\nII-300\n Solo entry-based event. The time limit will be 2 minutes. A warning will be given on completion of 2 minutes. Participant has to wrap up in 30 seconds otherwise marks shall be deducted. Topics will be of current affairs & will be given on the spot. ",
+		"location": "Seminar Hall",
+		"timestamp": 1519297200,
+		"imageUrl": "https://github.com/anandwana001/Tech-Jalsa/raw/master/app/src/main/res/drawable-xxxhdpi/inaguration.jpg",
+		"facebookEventLink": "https://www.facebook.com/events/146369969401971/",
+		"additionalInfo": [],
+		"categories": [
+			"literary"
+		],
+		"organizers": [{
+				"name": "Gaurav Kumawat",
+				"phoneNumber": 9785282959
+			}
+		]
+	},
+ {
+		"id": 109,
+		"name": "Mini Militia",
+		"description": "Fee-150\nPrizeI-700\nII-400\nFor the hardcore gamers, we bring to your service the game of the generation - Counter Strike. Happy Hunting!!",
+		"location": "I – Car 3 Lab",
+		"timestamp": 1519297200,
+		"imageUrl": "https://github.com/anandwana001/Tech-Jalsa/raw/master/app/src/main/res/drawable-xxxhdpi/inaguration.jpg",
+		"facebookEventLink": "https://www.facebook.com/events/146369969401971/",
+		"additionalInfo": [],
+		"categories": [
+			"gaming"
+		],
+		"organizers": [{
+				"name": "Gaurav Kumawat",
+				"phoneNumber": 9785282959
+			}
+		]
+	},{
+		"id": 110,
+		"name": "Roadies (I Round)",
+		"description": "Fee-300\nPrizeI-3500\nII-2500\nIII-1500\nFor the hardcore gamers, we bring to your service the game of the generation - Counter Strike. Happy Hunting!!",
+		"location": "Techno Circle",
+		"timestamp": 1519297200,
+		"imageUrl": "https://github.com/anandwana001/Tech-Jalsa/raw/master/app/src/main/res/drawable-xxxhdpi/inaguration.jpg",
+		"facebookEventLink": "https://www.facebook.com/events/146369969401971/",
+		"additionalInfo": [],
+		"categories": [
+			"flagship"
+		],
+		"organizers": [{
+				"name": "Gaurav Kumawat",
+				"phoneNumber": 9785282959
+			}
+		]
+	},{
+		"id": 111,
+		"name": "Jigsaw Story writing",
+		"description": "Fee-50\nPrizeI-500\nII-300\nFor the hardcore gamers, we bring to your service the game of the generation - Counter Strike. Happy Hunting!!",
+		"location": "Language Lab",
+		"timestamp": 1519297200,
+		"imageUrl": "https://github.com/anandwana001/Tech-Jalsa/raw/master/app/src/main/res/drawable-xxxhdpi/inaguration.jpg",
+		"facebookEventLink": "https://www.facebook.com/events/146369969401971/",
+		"additionalInfo": [],
+		"categories": [
+			"literary"
+		],
+		"organizers": [{
+				"name": "Gaurav Kumawat",
+				"phoneNumber": 9785282959
+			}
+		]
+	},{
+		"id": 112,
+		"name": "OMG (Temporary Tattoo)",
+		"description": "Fee-50\nPrizeI-500\nII-300\nFor the hardcore gamers, we bring to your service the game of the generation - Counter Strike. Happy Hunting!!",
+		"location": "Class Room (CS)",
+		"timestamp": 1519297200,
+		"imageUrl": "https://github.com/anandwana001/Tech-Jalsa/raw/master/app/src/main/res/drawable-xxxhdpi/inaguration.jpg",
+		"facebookEventLink": "https://www.facebook.com/events/146369969401971/",
+		"additionalInfo": [],
+		"categories": [
+			"art_and_craft"
+		],
+		"organizers": [{
+				"name": "Gaurav Kumawat",
+				"phoneNumber": 9785282959
+			}
+		]
+	},{
+		"id": 113,
+		"name": "Charm of Palm (Mehandi)",
+		"description": "Fee-50\nPrizeI-500\nII-300\nFor the hardcore gamers, we bring to your service the game of the generation - Counter Strike. Happy Hunting!!",
+		"location": "Language Lab",
+		"timestamp": 1519297200,
+		"imageUrl": "https://github.com/anandwana001/Tech-Jalsa/raw/master/app/src/main/res/drawable-xxxhdpi/inaguration.jpg",
+		"facebookEventLink": "https://www.facebook.com/events/146369969401971/",
+		"additionalInfo": [],
+		"categories": [
+			"art_and_craft"
+		],
+		"organizers": [{
+				"name": "Gaurav Kumawat",
+				"phoneNumber": 9785282959
+			}
+		]
+	},{
+		"id": 114,
+		"name": "Poetry Recitation",
+		"description": "Fee-50\nPrizeI-500\nII-300\nFor the hardcore gamers, we bring to your service the game of the generation - Counter Strike. Happy Hunting!!",
+		"location": "Seminar Hall",
+		"timestamp": 1519297200,
+		"imageUrl": "https://github.com/anandwana001/Tech-Jalsa/raw/master/app/src/main/res/drawable-xxxhdpi/inaguration.jpg",
+		"facebookEventLink": "https://www.facebook.com/events/146369969401971/",
+		"additionalInfo": [],
+		"categories": [
+			"literary"
+		],
+		"organizers": [{
+				"name": "Gaurav Kumawat",
+				"phoneNumber": 9785282959
+			}
+		]
+	},{
+		"id": 115,
+		"name": "Roadies (II Round)",
+		"description": "For the hardcore gamers, we bring to your service the game of the generation - Counter Strike. Happy Hunting!!",
+		"location": "Techno Circle",
+		"timestamp": 1519297200,
+		"imageUrl": "https://github.com/anandwana001/Tech-Jalsa/raw/master/app/src/main/res/drawable-xxxhdpi/inaguration.jpg",
+		"facebookEventLink": "https://www.facebook.com/events/146369969401971/",
+		"additionalInfo": [],
+		"categories": [
+			"flagship"
+		],
+		"organizers": [{
+				"name": "Gaurav Kumawat",
+				"phoneNumber": 9785282959
+			}
+		]
+	},{
+		"id": 116,
+		"name": "In-House DJ Party (DJ Bhavik)",
+		"description": "For the hardcore gamers, we bring to your service the game of the generation - Counter Strike. Happy Hunting!!",
+		"location": "Techno Circle",
+		"timestamp": 1519297200,
+		"imageUrl": "https://github.com/anandwana001/Tech-Jalsa/raw/master/app/src/main/res/drawable-xxxhdpi/inaguration.jpg",
+		"facebookEventLink": "https://www.facebook.com/events/146369969401971/",
+		"additionalInfo": [],
+		"categories": [
+			"flagship"
+		],
+		"organizers": [{
+				"name": "Gaurav Kumawat",
+				"phoneNumber": 9785282959
+			}
+		]
+	},{
+		"id": 117,
+		"name": "Wall Graffiti (Wall painting)",
+		"description": "Fee-50\nPrizeI-1000\nII-800\nFor the hardcore gamers, we bring to your service the game of the generation - Counter Strike. Happy Hunting!!",
+		"location": "Hostel",
+		"timestamp": 1519297200,
+		"imageUrl": "https://github.com/anandwana001/Tech-Jalsa/raw/master/app/src/main/res/drawable-xxxhdpi/inaguration.jpg",
+		"facebookEventLink": "https://www.facebook.com/events/146369969401971/",
+		"additionalInfo": [],
+		"categories": [
+			"art_and_craft"
+		],
+		"organizers": [{
+				"name": "Gaurav Kumawat",
+				"phoneNumber": 9785282959
+			}
+		]
+	},{
+		"id": 118,
+		"name": "FIFA",
+		"description": "Fee-100\nPrizeI-800\nII-500\nFor the hardcore gamers, we bring to your service the game of the generation - Counter Strike. Happy Hunting!!",
+		"location": "I – car 1 Lab",
+		"timestamp": 1519297200,
+		"imageUrl": "https://github.com/anandwana001/Tech-Jalsa/raw/master/app/src/main/res/drawable-xxxhdpi/inaguration.jpg",
+		"facebookEventLink": "https://www.facebook.com/events/146369969401971/",
+		"additionalInfo": [],
+		"categories": [
+			"gaming"
+		],
+		"organizers": [{
+				"name": "Gaurav Kumawat",
+				"phoneNumber": 9785282959
+			}
+		]
+	},{
+		"id": 119,
+		"name": "Rush (NFS)",
+		"description": "Fee-100\nPrizeI-800\nII-500\nFor the hardcore gamers, we bring to your service the game of the generation - Counter Strike. Happy Hunting!!",
+		"location": "I – car 2 Lab",
+		"timestamp": 1519297200,
+		"imageUrl": "https://github.com/anandwana001/Tech-Jalsa/raw/master/app/src/main/res/drawable-xxxhdpi/inaguration.jpg",
+		"facebookEventLink": "https://www.facebook.com/events/146369969401971/",
+		"additionalInfo": [],
+		"categories": [
+			"gaming"
+		],
+		"organizers": [{
+				"name": "Gaurav Kumawat",
+				"phoneNumber": 9785282959
+			}
+		]
+	},{
+		"id": 120,
+		"name": "Symposium (Group Discussion)",
+		"description": "Fee-50\nPrizeI-500\nII-300\nFor the hardcore gamers, we bring to your service the game of the generation - Counter Strike. Happy Hunting!!",
+		"location": "Seminar Hall – I",
+		"timestamp": 1519297200,
+		"imageUrl": "https://github.com/anandwana001/Tech-Jalsa/raw/master/app/src/main/res/drawable-xxxhdpi/inaguration.jpg",
+		"facebookEventLink": "https://www.facebook.com/events/146369969401971/",
+		"additionalInfo": [],
+		"categories": [
+			"literary"
+		],
+		"organizers": [{
+				"name": "Gaurav Kumawat",
+				"phoneNumber": 9785282959
+			}
+		]
+	},{
+		"id": 121,
+		"name": "Bob the Builder (Elevation Design)",
+		"description": "Fee-50\nPrizeI-500\nII-300\nTeam consist of only one member. Time limit: 2Hrs Software allowed 3Ds Max + 3Ds Max Autocad + 3Ds Max Revit Participants must keep both Plan & 3D Rendered view at time of judgement. Participants must keep saving their files at small duration, organising committee will not hold any responsibility for any loss due to system failure or power failure. Planning must be based on Vastu. Use on internet or any mobile device during the competition is strictly ban, Any such use during the competition will make you disqualify. Extensive rendering may be allowed maximum duration of 24 Hrs. Judgment will be based on Accuracy, and Practicality of the project made. ",
+		"location": "CAD Lab",
+		"timestamp": 1519297200,
+		"imageUrl": "https://github.com/anandwana001/Tech-Jalsa/raw/master/app/src/main/res/drawable-xxxhdpi/inaguration.jpg",
+		"facebookEventLink": "https://www.facebook.com/events/146369969401971/",
+		"additionalInfo": [],
+		"categories": [
+			"technical"
+		],
+		"organizers": [{
+				"name": "Gaurav Kumawat",
+				"phoneNumber": 9785282959
+			}
+		]
+	},{
+		"id": 122,
+		"name": "Robo Soccer",
+		"description": "Fee-100\nPrizeI-700\nII-400\n  GENERAL RULES: Design and build two remote controlled, wireless robots (Striker and goalkeeper) and a team can have at most three robots. The team with maximum goals at the completion of the match will emerge as the winner. Each team must have a captain​. The captain is the person responsible for communication with referees. The competition area will be having a special place defined for the robot’s operation (here after COMPETITION FIELD). A goal is scored when the ball cross first line of the goal. Goals scored either by an attacking or defending robot have the same end result: they give one goal to the team on the opposite side.After a goal, game will be restarted with a kick-off from the team who received the goal against. Before a kick-off, all damaged or out of-bounds robots are allowed to return to the playing field immediately if they are ready and fully functional. Dimensions of the field: The playing-field is 360 cm by 480 cm. The field is marked by a white line which is part of the playing-field. Floor: The floor consists of green carpet on top of a hard level surface. The carpet will be of a quality that will resist the wear and tear of spinning wheels. All straight lines on the field will be painted / medical tape and have a width of 50 mm. Goals: The field has two goals, centered on each of the shorter sides of the playing field. The goal inner space is 60 cm width, 30 cm high and 30 cm deep, box shaped. The goal “posts” are positioned over the white line marking the limits of the field. The cross-bar is exactly over the white line. Center circle: A center circle will be drawn on the field. It is 120 cm in diameter. It is a thin black marker line. It is there for Referees and Captains as guidance during kick-off. Penalty areas: In front of each goal there is a 60 cm wide and 120 cm long penalty area. The penalty areas are marked by a black line of 20 mm width. The line is part of the area. A robot is considered inside the Penalty Area when it is completely inside. ROBOT SPECIFICATION: The Robot Can be either circular and rectangular style. The maximum diameter/width of the robot can be 30 cm there is no limit of height. A robot must have markings in order (1, 2 and 3) to be distinguished by the referee. Robots not carrying these markers are not eligible to play. Each robot must carry a top marker as white square and on top of it black number mark. Communication: Robots are not allowed to use any kind of communication during game play unless the communication between two robots is via Bluetooth class 2 or class 3 (range shorter than 20 meters) or via ZigBee. Teams are responsible for their communication. The availability of frequencies cannot be guaranteed. Handle: All robots must have a stable handle to hold and to lift them. The handle must be easily accessible, for example on top of a robot. The dimensions of the handle may exceed the 22 cm height limitation, but the part of the handle that exceeds this 22 cm limit cannot be used to mount components of the robot. Tournament Balls:A White soccer ball for the tournament will be made available by the organizers. The diameter of the ball is required to be 74 mm. Organizers are not responsible for providing balls for practice. ",
+		"location": "Techno Circle",
+		"timestamp": 1519297200,
+		"imageUrl": "https://github.com/anandwana001/Tech-Jalsa/raw/master/app/src/main/res/drawable-xxxhdpi/inaguration.jpg",
+		"facebookEventLink": "https://www.facebook.com/events/146369969401971/",
+		"additionalInfo": [],
+		"categories": [
+			"technical"
+		],
+		"organizers": [{
+				"name": "Gaurav Kumawat",
+				"phoneNumber": 9785282959
+			}
+		]
+	},{
+		"id": 123,
+		"name": "Salad Making",
+		"description": "Fee-50\nPrizeI-500\nII-300\nFor the hardcore gamers, we bring to your service the game of the generation - Counter Strike. Happy Hunting!!",
+		"location": "Open Canteen",
+		"timestamp": 1519297200,
+		"imageUrl": "https://github.com/anandwana001/Tech-Jalsa/raw/master/app/src/main/res/drawable-xxxhdpi/inaguration.jpg",
+		"facebookEventLink": "https://www.facebook.com/events/146369969401971/",
+		"additionalInfo": [],
+		"categories": [
+			"art_and_craft"
+		],
+		"organizers": [{
+				"name": "Gaurav Kumawat",
+				"phoneNumber": 9785282959
+			}
+		]
+	},{
+		"id": 124,
+		"name": "Instrumental Beat-out",
+		"description": "Fee-100\nPrizeI-700\nII-400\nFor the hardcore gamers, we bring to your service the game of the generation - Counter Strike. Happy Hunting!!",
+		"location": "Techno Circle",
+		"timestamp": 1519297200,
+		"imageUrl": "https://github.com/anandwana001/Tech-Jalsa/raw/master/app/src/main/res/drawable-xxxhdpi/inaguration.jpg",
+		"facebookEventLink": "https://www.facebook.com/events/146369969401971/",
+		"additionalInfo": [],
+		"categories": [
+			"cultural"
+		],
+		"organizers": [{
+				"name": "Gaurav Kumawat",
+				"phoneNumber": 9785282959
+			}
+		]
+	},{
+		"id": 125,
+		"name": "Rangrez (Rangoli)",
+		"description": "Fee-100\nPrizeI-500\nII-300\nFor the hardcore gamers, we bring to your service the game of the generation - Counter Strike. Happy Hunting!!",
+		"location": "Machine Lab",
+		"timestamp": 1519297200,
+		"imageUrl": "https://github.com/anandwana001/Tech-Jalsa/raw/master/app/src/main/res/drawable-xxxhdpi/inaguration.jpg",
+		"facebookEventLink": "https://www.facebook.com/events/146369969401971/",
+		"additionalInfo": [],
+		"categories": [
+			"art_and_craft"
+		],
+		"organizers": [{
+				"name": "Gaurav Kumawat",
+				"phoneNumber": 9785282959
+			}
+		]
+	},{
+		"id": 126,
+		"name": "Roadies (III Round)",
+		"description": "For the hardcore gamers, we bring to your service the game of the generation - Counter Strike. Happy Hunting!!",
+		"location": "Techno Circle",
+		"timestamp": 1519297200,
+		"imageUrl": "https://github.com/anandwana001/Tech-Jalsa/raw/master/app/src/main/res/drawable-xxxhdpi/inaguration.jpg",
+		"facebookEventLink": "https://www.facebook.com/events/146369969401971/",
+		"additionalInfo": [],
+		"categories": [
+			"flagship"
+		],
+		"organizers": [{
+				"name": "Gaurav Kumawat",
+				"phoneNumber": 9785282959
+			}
+		]
+	},{
+		"id": 127,
+		"name": "Aqua Launcher (Bottle Rocket)",
+		"description": "Fee-100\nPrizeI-700\nII-400\n Water Rocket and all its components should be handmade. Readymade models are strictly not allowed. Your model can be of any size or shape and can be made by any material. If your model is found to dangerous, you will not be allowed to participate in the event. Whether or not your model is dangerous that will be decided by the panel of event coordinators. Only water and air can be used as propellants. A team can consist of maximum 4 members. Judging criteria will disclose on the day of event. Event Rules: The game consists of two teams of robots playing soccer against each other. Each team has two autonomous/manual robots. The game will consist of two halves. The duration of each half is 5-minutes. There will be 2-minute break in between the halves. Pre-match meeting: At the start of the first half of the game, a referee will toss a coin. The team mentioned first in the draw shall call the coin. The winner of the toss can choose either which end to kick to, or to kick off first. The loser of the toss will settle for the other option. After the first half, teams will switch sides. The team not kicking off in the first half of the game will kick off to begin the second half of the game. Kick-off: Each half of the game begins with a kick-off. All robots must be located on their own side of the field. All robots must be halted. The ball is positioned by a referee in the center of the field. The team kicking off places their robots on the field first. Robots cannot be placed nor remain behind the goal line or in the outer area. Robots cannot be repositioned once they have been placed. The team not kicking off will now place their robots on the defensive end of the field. On the referee's command all robots will be started immediately by each captain. Any robots that are started early will be removed by the referee from the field and treated as a damaged robot. Ball movement: A robot cannot hold a ball. Holding a ball means taking full control of the ball by removing all of its degrees of freedom. Examples for ball holding include fixing a ball to the robot's body, surrounding a ball using the robot's body to prevent access by others, encircling the ball or somehow trapping the ball with any part of the robot's body. If a ball stops rolling while a robot is moving or a ball does not rebound when rolled into a robot, it is a good indication that the ball is trapped. Goalie: The robot moving first into the penalty area on a team’s defending side completely (with every part of it) is designated as goalie until a part of it leaves the penalty area. Pushing: Within the penalty area, the goalie has priority. Attacking robots are not supposed to push the goalie in any way. If the attacker and the goalie touch each other and at least one of them has physical contact with the ball, the ball will be moved to the nearest unoccupied neutral spot immediately. If a goal is scored as a result of this pushed-situation, it will not be granted. Lack of progress: Lack of progress occurs if there is no progress in the gameplay for a reasonable period of time and the situation is not likely to change. Typical lack of progress situations are when the ball is stuck between robots, when there is no change in ball and robot’s positions, or when the ball is beyond detection or reach capability of all robots on the field. After a visible and loud count, a referee will call “lack of progress” and will move the ball to the nearest unoccupied neutral spot. If this does not solve the lack of progress, the referee can move the ball to different neutral spots. Out of bounds: If a robot’s entire body moves out beyond the white line of the field completely, it will be called for being out of bounds. When this situation arises, the robot is given a one-minute penalty, and the team is asked to remove the robot from the field. There is no time stoppage for the game itself. The robot is allowed to return if a kickoff occurs before the penalty has elapsed. Damaged robots: If a robot is damaged, it has to be taken off the field and must be fixed before it can play again. Even if repaired, the robot must remain off the field for at least one minute or until the next kickoff is due. If all robots have moved out of bounds, the penalties are discarded and the match resumes with a neutral kickoff. ",
+		"location": "Garden",
+		"timestamp": 1519297200,
+		"imageUrl": "https://github.com/anandwana001/Tech-Jalsa/raw/master/app/src/main/res/drawable-xxxhdpi/inaguration.jpg",
+		"facebookEventLink": "https://www.facebook.com/events/146369969401971/",
+		"additionalInfo": [],
+		"categories": [
+			"technical"
+		],
+		"organizers": [{
+				"name": "Gaurav Kumawat",
+				"phoneNumber": 9785282959
+			}
+		]
+	},{
+		"id": 128,
+		"name": "Treasure Hunt",
+		"description": "Fee-150\nPrizeI-1000\nFor the hardcore gamers, we bring to your service the game of the generation - Counter Strike. Happy Hunting!!",
+		"location": "Techno Circle",
+		"timestamp": 1519297200,
+		"imageUrl": "https://github.com/anandwana001/Tech-Jalsa/raw/master/app/src/main/res/drawable-xxxhdpi/inaguration.jpg",
+		"facebookEventLink": "https://www.facebook.com/events/146369969401971/",
+		"additionalInfo": [],
+		"categories": [
+			"flagship"
+		],
+		"organizers": [{
+				"name": "Gaurav Kumawat",
+				"phoneNumber": 9785282959
+			}
+		]
+	},{
+		"id": 129,
+		"name": "Codex (Coding)",
+		"description": "Fee-50\nPrizeI-500\nII-300\n Solo entry-based event.Questions will be provided on the spot and the programming language for solving the questions will be C, C++ and JAVA.",
+		"location": "I – car 3 Lab",
+		"timestamp": 1519297200,
+		"imageUrl": "https://github.com/anandwana001/Tech-Jalsa/raw/master/app/src/main/res/drawable-xxxhdpi/inaguration.jpg",
+		"facebookEventLink": "https://www.facebook.com/events/146369969401971/",
+		"additionalInfo": [],
+		"categories": [
+			"technical"
+		],
+		"organizers": [{
+				"name": "Gaurav Kumawat",
+				"phoneNumber": 9785282959
+			}
+		]
+	},{
+		"id": 130,
+		"name": "Tug of War",
+		"description": "Fee-200\nPrizeI-800\nFor the hardcore gamers, we bring to your service the game of the generation - Counter Strike. Happy Hunting!!",
+		"location": "Garden",
+		"timestamp": 1519297200,
+		"imageUrl": "https://github.com/anandwana001/Tech-Jalsa/raw/master/app/src/main/res/drawable-xxxhdpi/inaguration.jpg",
+		"facebookEventLink": "https://www.facebook.com/events/146369969401971/",
+		"additionalInfo": [],
+		"categories": [
+			"flagship"
+		],
+		"organizers": [{
+				"name": "Gaurav Kumawat",
+				"phoneNumber": 9785282959
+			}
+		]
+	},{
+		"id": 131,
+		"name": "Moot Court(Debate) (English/Hindi)",
+		"description": "Fee-50\nPrizeI-500\nII-300\nFor the hardcore gamers, we bring to your service the game of the generation - Counter Strike. Happy Hunting!!",
+		"location": "Seminar Hall",
+		"timestamp": 1519297200,
+		"imageUrl": "https://github.com/anandwana001/Tech-Jalsa/raw/master/app/src/main/res/drawable-xxxhdpi/inaguration.jpg",
+		"facebookEventLink": "https://www.facebook.com/events/146369969401971/",
+		"additionalInfo": [],
+		"categories": [
+			"literary"
+		],
+		"organizers": [{
+				"name": "Gaurav Kumawat",
+				"phoneNumber": 9785282959
+			}
+		]
+	},{
+		"id": 132,
+		"name": "i-Genius (Technical Quiz)",
+		"description": "Fee-100\nPrizeI-500\nII-300\n The team shall be comprises of three members.The preliminary round will be a written one.Top 10 teams will advance to the next round.Mobiles, calculators and other accessories are not permitted.",
+		"location": "Techno Circle",
+		"timestamp": 1519297200,
+		"imageUrl": "https://github.com/anandwana001/Tech-Jalsa/raw/master/app/src/main/res/drawable-xxxhdpi/inaguration.jpg",
+		"facebookEventLink": "https://www.facebook.com/events/146369969401971/",
+		"additionalInfo": [],
+		"categories": [
+			"technical"
+		],
+		"organizers": [{
+				"name": "Gaurav Kumawat",
+				"phoneNumber": 9785282959
+			}
+		]
+	},{
+		"id": 133,
+		"name": "Tal - Mel",
+		"description": "Fee-100\nPrizeI-1000\nII-500\nFor the hardcore gamers, we bring to your service the game of the generation - Counter Strike. Happy Hunting!!",
+		"location": "Seminar Hall",
+		"timestamp": 1519297200,
+		"imageUrl": "https://github.com/anandwana001/Tech-Jalsa/raw/master/app/src/main/res/drawable-xxxhdpi/inaguration.jpg",
+		"facebookEventLink": "https://www.facebook.com/events/146369969401971/",
+		"additionalInfo": [],
+		"categories": [
+			"cultural"
+		],
+		"organizers": [{
+				"name": "Gaurav Kumawat",
+				"phoneNumber": 9785282959
+			}
+		]
+	},{
+		"id": 134,
+		"name": "Roadies (Final Round)",
+		"description": "For the hardcore gamers, we bring to your service the game of the generation - Counter Strike. Happy Hunting!!",
+		"location": "Outside Campus(To be declared)",
+		"timestamp": 1519297200,
+		"imageUrl": "https://github.com/anandwana001/Tech-Jalsa/raw/master/app/src/main/res/drawable-xxxhdpi/inaguration.jpg",
+		"facebookEventLink": "https://www.facebook.com/events/146369969401971/",
+		"additionalInfo": [],
+		"categories": [
+			"flagship"
+		],
+		"organizers": [{
+				"name": "Gaurav Kumawat",
+				"phoneNumber": 9785282959
+			}
+		]
+	},{
+		"id": 135,
+		"name": "Roadies (Final Round)",
+		"description": "For the hardcore gamers, we bring to your service the game of the generation - Counter Strike. Happy Hunting!!",
+		"location": "Outside Campus(To be declared)",
+		"timestamp": 1519297200,
+		"imageUrl": "https://github.com/anandwana001/Tech-Jalsa/raw/master/app/src/main/res/drawable-xxxhdpi/inaguration.jpg",
+		"facebookEventLink": "https://www.facebook.com/events/146369969401971/",
+		"additionalInfo": [],
+		"categories": [
+			"flagship"
+		],
+		"organizers": [{
+				"name": "Gaurav Kumawat",
+				"phoneNumber": 9785282959
+			}
+		]
+	},
 ]
