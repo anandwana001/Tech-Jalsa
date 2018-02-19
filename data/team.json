@@ -2,8 +2,64 @@
   {
     "id": 2001,
     "name": "Gaurav Kumawat",
-    "imageUrl": "https://github.com/anandwana001/anandwana001.github.io/raw/master/images/profile-pic.jpg",
-    "position": "Organiser",
+    "imageUrl": "https://github.com/anandwana001/Tech-Jalsa/raw/master/Screenshots/Main_Coordinators/Gaurav_Kumawat.jpg",
+    "position": "Event Head",
+    "contact": "8696932741"
+  },
+  {
+    "id": 2002,
+    "name": "Sandeep Upadhyay",
+    "imageUrl": "https://github.com/anandwana001/Tech-Jalsa/raw/master/Screenshots/Main_Coordinators/Sandeep_Upadhyay.jpeg",
+    "position": "Faculty Coordinator",
+    "contact": "8696732845"
+  },
+  {
+    "id": 2003,
+    "name": "Akshat Bordia",
+    "imageUrl": "https://github.com/anandwana001/Tech-Jalsa/raw/master/Screenshots/Main_Coordinators/Akshat_Bordia.jpg",
+    "position": "Student Coordinator",
+    "contact": "8109923234"
+  },
+  {
+    "id": 2004,
+    "name": "Arushi Kavdia",
+    "imageUrl": "https://github.com/anandwana001/Tech-Jalsa/raw/master/Screenshots/Main_Coordinators/Arushi_Kavdia.jpg",
+   "position": "Student Coordinator",
+    "contact": "7728878448"
+  },
+  {
+    "id": 2005,
+    "name": "Ronak Murdia",
+    "imageUrl": "https://github.com/anandwana001/Tech-Jalsa/raw/master/Screenshots/Main_Coordinators/Ronak_Murdia.jpg",
+    "position": "Student Coordinator",
     "contact": "9785282959"
-  }
+  },
+  {
+    "id": 2006,
+    "name": "Shubham Dave",
+    "imageUrl": "https://github.com/anandwana001/Tech-Jalsa/raw/master/Screenshots/Main_Coordinators/Shubham_Dave.jpg",
+    "position": "Student Coordinator",
+    "contact": "7976489841"
+  },
+  {
+    "id": 2007,
+    "name": "Toshal Pandya",
+    "imageUrl": "https://github.com/anandwana001/Tech-Jalsa/raw/master/Screenshots/Main_Coordinators/Toshal_Pandya.jpg",
+   "position": "Student Coordinator",
+    "contact": "9462989898"
+  },
+  {
+    "id": 2008,
+    "name": "Saurabh Parmar",
+    "imageUrl": "https://github.com/anandwana001/Tech-Jalsa/raw/master/Screenshots/Main_Coordinators/Saurabh_Parmar.jpg",
+    "position": "Student Coordinator",
+    "contact": "9785282959"
+  },
+  {
+    "id": 2009,
+    "name": "Jai Paliwal",
+    "imageUrl": "https://github.com/anandwana001/Tech-Jalsa/raw/master/Screenshots/Main_Coordinators/jai_Paliwal.jpg",
+    "position": "Student Coordinator",
+    "contact": "9414655145"
+  },
 ]
