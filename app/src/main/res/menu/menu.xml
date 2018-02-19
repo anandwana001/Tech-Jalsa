@@ -14,6 +14,10 @@
         android:showAsAction="never"
         android:title="@string/map"/>
     <item
+        android:id="@+id/app_share"
+        android:showAsAction="never"
+        android:title="@string/share_app"/>
+    <item
         android:id="@+id/about_us"
         android:showAsAction="never"
         android:title="@string/aboutus"/>

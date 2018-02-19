@@ -35,6 +35,8 @@ The moment to put the course books aside and swinging back into our fun-modes. *
 - [ ] Improve UI
 - [ ] Add PayTm payment option so that students direclty submit event fees through App
 - [ ] Solve Notification Issue
+- [ ] Add Contact list of all faculty members of Techno India NJR college branch wise and also give brief detail of specific faculty.
+- [ ] New features are welcome.
 
 ## Release History
 
