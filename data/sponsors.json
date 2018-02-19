@@ -10,7 +10,7 @@
       "priority":1
    },
    {  
-      "id":1001,
+      "id":1002,
       "name":"DJ Lovenish",
       "imageUrl":"https://github.com/anandwana001/Tech-Jalsa/raw/master/Screenshots/Sponsor/DJ_Lovenish.jpg",
       "categories":[  
@@ -20,7 +20,7 @@
       "priority":2
    },
    {  
-      "id":1001,
+      "id":1003,
       "name":"Navrang Sound",
       "imageUrl":"https://github.com/anandwana001/Tech-Jalsa/blob/master/Screenshots/Sponsor/Navrang_Sound.png",
       "categories":[  
@@ -30,7 +30,7 @@
       "priority":3
    },
    {  
-      "id":1001,
+      "id":1004,
       "name":"The Invincible India",
       "imageUrl":"https://github.com/anandwana001/Tech-Jalsa/blob/master/Screenshots/Sponsor/The_Invincible_India.png",
       "categories":[  
