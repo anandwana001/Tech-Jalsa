@@ -22,7 +22,7 @@
    {  
       "id":1003,
       "name":"Navrang Sound",
-      "imageUrl":"https://github.com/anandwana001/Tech-Jalsa/blob/master/Screenshots/Sponsor/Navrang_Sound.png",
+      "imageUrl":"https://github.com/anandwana001/Tech-Jalsa/raw/master/Screenshots/Sponsor/Navrang_Sound.png",
       "categories":[  
          "Sound"
       ],
@@ -32,7 +32,7 @@
    {  
       "id":1004,
       "name":"The Invincible India",
-      "imageUrl":"https://github.com/anandwana001/Tech-Jalsa/blob/master/Screenshots/Sponsor/The_Invincible_India.png",
+      "imageUrl":"https://github.com/anandwana001/Tech-Jalsa/raw/master/Screenshots/Sponsor/The_Invincible_India.png",
       "categories":[  
          "Media Partner"
       ],
