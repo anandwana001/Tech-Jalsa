@@ -1,11 +1,40 @@
 [  
    {  
       "id":1001,
-      "name":"DSC",
-      "imageUrl":"https://github.com/anandwana001/anandwana001.github.io/raw/master/images/profile-pic.jpg",
+      "name":"DJ Bhavik",
+      "imageUrl":"https://github.com/anandwana001/Tech-Jalsa/raw/master/Screenshots/Sponsor/DJ_Bhavik_Logo.png",
       "categories":[  
-         "App Sponsor",
-         "Developer Student Club"
+         "DJ"
+      ],
+      "website":"https://www.facebook.com/DSCUDR.IN/",
+      "priority":4
+   },
+   {  
+      "id":1002,
+      "name":"DJ Lovenish",
+      "imageUrl":"https://github.com/anandwana001/Tech-Jalsa/raw/master/Screenshots/Sponsor/DJ_Lovenish.jpg",
+      "categories":[  
+         "DJ"
+      ],
+      "website":"https://www.facebook.com/DSCUDR.IN/",
+      "priority":2
+   },
+   {  
+      "id":1003,
+      "name":"Navrang Sound",
+      "imageUrl":"https://github.com/anandwana001/Tech-Jalsa/raw/master/Screenshots/Sponsor/Navrang_Sound.png",
+      "categories":[  
+         "Sound"
+      ],
+      "website":"https://www.facebook.com/DSCUDR.IN/",
+      "priority":3
+   },
+   {  
+      "id":1004,
+      "name":"The Invincible India",
+      "imageUrl":"https://github.com/anandwana001/Tech-Jalsa/raw/master/Screenshots/Sponsor/The_Invincible_India.png",
+      "categories":[  
+         "Media Partner"
       ],
       "website":"https://www.facebook.com/DSCUDR.IN/",
       "priority":1
