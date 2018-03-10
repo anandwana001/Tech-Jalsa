@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "960070276860",
+    "firebase_url": "https://techjalsa-fca8e.firebaseio.com",
+    "project_id": "techjalsa-fca8e",
+    "storage_bucket": "techjalsa-fca8e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:960070276860:android:25104f5061dafde8",
+        "android_client_info": {
+          "package_name": "njr.com.techjalsa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "960070276860-t4pn0m6cvdporgnoio7te54rj8etjmed.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "njr.com.techjalsa",
+            "certificate_hash": "ccd249569b01c94f47f91792c603521d22365320"
+          }
+        },
+        {
+          "client_id": "960070276860-cejub45dsg4bs5arr1tbtjbe10nbukrl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjd60h9LyErjEsKmRMFC7sQ4z4KohmbcI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "960070276860-cejub45dsg4bs5arr1tbtjbe10nbukrl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
