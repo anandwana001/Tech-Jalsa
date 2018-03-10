@@ -36,13 +36,13 @@ cache:
     - ${TRAVIS_BUILD_DIR}/gradle/wrapper/dists/
     
 before_install:
-  - yes | sdkmanager "platforms;android-25"
+ - chmod +x gradlew
   
 install:
-  - ./gradlew assembleDebug --stacktrace
+  - ./gradlew assembleDebug
   
 script:
-  - ./gradlew build connectedCheck --stacktrace
+  - ./gradlew build connectedCheck
 
 branches:
   only:
