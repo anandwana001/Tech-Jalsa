@@ -9,10 +9,10 @@ android:
     - extra-google-google_play_services
     - extra-google-m2repository
     - extra-android-m2repository
-    - sys-img-armeabi-v7a-android-22
+    - sys-img-armeabi-v7a-android-25
  
 before_script:
-  - echo no | android create avd --force -n test -t android-22 --abi armeabi-v7a -c 32M
+  - echo no | android create avd --force -n test -t android-25 --abi armeabi-v7a -c 32M
   - emulator -avd test -no-audio -no-window &
   - android-wait-for-emulator
   - sleep 180
