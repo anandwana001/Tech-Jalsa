@@ -1,50 +1,9 @@
 language: android
+java: oraclejdk8
 
-jdk: oraclejdk8
-
-env:
-  global:
-    - ANDROID_API_LEVEL=25
-    - ANDROID_EMULATOR_LEVEL=25
-    - ANDROID_BUILD_TOOLS_VERSION=25.0.1
-    - ANDROID_ABI=armeabi-v7a
-    - ANDROID_TAG=google_apis
-    - ADB_INSTALL_TIMEOUT=20 # minutes (2 minutes by default)
-    
- android:
-   components:
-    - tools
-    - platform-tools
-    - tools # to install Android SDK tools 25.1.x
-    - build-tools-$ANDROID_BUILD_TOOLS_VERSION
-    - android-$ANDROID_API_LEVEL
-    # For Google APIs
-    - addon-google_apis-google-$ANDROID_API_LEVEL
-    # Google Play Services
-    - extra-google-google_play_services
-    # Support library
-    - extra-android-support
-    # Latest artifacts in local repository
-    - extra-google-m2repository
-    - extra-android-m2repository
-    # Specify at least one system image
-    - sys-img-armeabi-v7a-google_apis-$ANDROID_EMULATOR_LEVEL
-
-cache:
-  directories:
-    - ${TRAVIS_BUILD_DIR}/gradle/caches/
-    - ${TRAVIS_BUILD_DIR}/gradle/wrapper/dists/
-    
-before_install:
- - chmod +x gradlew
-  
-install:
-  - ./gradlew assembleDebug
-  
-script:
-  - ./gradlew build connectedCheck
-
-branches:
-  only:
-    - master
-
+android:
+    components:
+      - build-tools-25.0.1
+      
+ script:
+  - gradle build connectedCheck
