@@ -7,5 +7,8 @@ android:
     - build-tools-25.0.1
     - android-25
  
+before_install:
+ - chmod +x gradlew
+
 script:
    - ./gradlew build connectedCheck
